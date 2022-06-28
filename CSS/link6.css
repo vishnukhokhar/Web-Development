@@ -1,0 +1,21 @@
+img {
+    width: 30%;
+    margin: 20px;
+    height: 250px;
+    border: solid peru 3px;
+
+}
+
+nav {
+    padding: 1em 0;
+    background-color: black;
+    text-decoration: dashed;
+    color: yellow;
+    width: 150px;
+    margin: 50px;
+}
+
+nav :hover {
+    background-color: white;
+
+}
